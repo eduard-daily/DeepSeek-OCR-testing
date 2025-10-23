@@ -208,7 +208,7 @@ The current open-source model supports the following modes:
 ```
 
 
-## Visualizations
+## Visualizations - 2 
 <table>
 <tr>
 <td><img src="assets/show1.jpg" style="width: 500px"></td>
